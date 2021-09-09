@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "5f8e3f90-5356-4b13-a802-ff3143c0a3b8",
+      "name": "fiddle leaf ",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR25egxmZJ9A6muZ_i4N_rrovGlGiYMt6N-KlNbSpkm4e72wlBPy78V-Ls_pEYZLc7HXCGbcBt8-dW8UjKQKDVn8FYfy9JQc4ZFj79ng0kXSeq6HtmTTEqPtA&usqp=CAE",
+      "price": "50"
+    },
+    {
+      "id": "1dba15a5-4e57-4154-95d3-25d05c9228f9",
+      "name": "pathos",
+      "image": "https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1613704578/vendor/1442/catalog/product/2/0/20200304010842_file_5e5eff9a260b1_5e5f00dbe1714_5e99ba224dba1_5e99ba2560035.jpg",
+      "price": "50"
     }
   ]
 }
